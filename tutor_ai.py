@@ -1,7 +1,8 @@
 import os
 import asyncio
 
-from google.genai import types  
+from google.generativeai import types
+ 
 
 from dotenv import load_dotenv
 load_dotenv()
